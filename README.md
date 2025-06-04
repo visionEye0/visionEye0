@@ -46,7 +46,6 @@ I'm a passionate web developer with a strong foundation in front-end development
 ## 🔗 Let's Connect
 
 - 📫 Email: [pranavsayshii@gmail.com]
-- 🌐 Portfolio: [yourportfolio.com]
 - 💼 LinkedIn: [[happy-coder](https://www.linkedin.com/in/happy-coder/)]
 
 ---
