@@ -54,3 +54,7 @@ I'm a passionate web developer with a strong foundation in front-end development
 
 Thanks for visiting! Feel free to explore my pinned projects below 👇
 
+- [Arbitrage Prime Bot](https://github.com/visionEye0/ARBITRAGE_PRIME_BOT)
+- [Binance vs Dex](https://github.com/visionEye0/Binance_VS_all_dex)
+- [Naukri Auto Apply Bot](https://github.com/visionEye0/Naukri-Auto-Apply-Bot)
+
