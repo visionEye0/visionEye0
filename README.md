@@ -13,7 +13,6 @@ I'm a passionate web developer with a strong foundation in front-end development
 - 🧪 After resigning in April 2025, I’ve been deep-diving into **crypto trading** and **blockchain** protocols.
 - 💹 Built and tested my own **trading bots/strategies** using the Binance API.
 - 📜 Explored DeFi protocols including DEXs, lending/borrowing, staking, and flashloans.
-- 📚 I completed my college coursework but didn’t officially graduate due to one pending subject.
 
 ---
 
