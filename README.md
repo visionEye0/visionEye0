@@ -1,17 +1,16 @@
 # Hi there 👋 I'm Pranav Krishna
 
-I'm a passionate web developer with a strong foundation in front-end development, an interest in cybersecurity, and a growing curiosity about trading algorithms and blockchain technologies. My journey into tech started in 2021, and since then, I’ve taken on roles that challenged and inspired me to grow continuously.
+software Developer with 3.5 years of experience in frontend and full-stack development.
+Started my career at DCKAP as a Frontend Developer, where I built responsive, user-friendly web interfaces for international clients and proactively identified and resolved critical security vulnerabilities, including XSS and HTML injection. Later, at Jardian Inc., I worked as the sole Full-Stack Developer, designing and delivering AIpublisher.org, a journal publishing platform. I engineered the frontend with React.js, backend with Node.js/Express.js, and integrated a MySQL database. Additionally, I implemented peer-review workflows, developed a secure payment system, and created an admin back-office portal for content and user management. My journey into tech started in 2022, and since then, I’ve taken on roles that challenged and inspired me to grow continuously.
 
 ---
 
 ## 🚀 About Me
 
-- 🧑‍🎓 I began my career in 2021 during my final year of BCA (Bachelor of Computer Applications).
-- 💻 My first project was with **Jardyan Inc**, where I built a full-fledged **journal publishing platform** with CRUD functionality and a payment system — all from scratch.
-- 🏢 Joined **DCKAP** in March 2022 as a **Front-End Developer**, where I turned designer mockups into functional UI with production-ready code.
-- 🔐 Transitioned into a **Blockchain Developer** for the last 1.5 year at DCKAP.
-- 🧪 After resigning in April 2025, I’ve been deep-diving into **crypto trading** and **blockchain** protocols.
-- 💹 Built and tested my own **trading bots/strategies** using the Binance API.
+- 🧑‍🎓 I began my career at **DCKAP** in March 2022 as a **Front-End Developer**, where I turned designer mockups into functional UI with production-ready code.
+- 🧪 After resigning in September 2023, I’ve been deep-diving into **crypto trading** and **blockchain** protocols.
+- 💻 In 2024 i joined **Jardyan Inc**, and took on a challenge to develop a full-fledged **journal publishing platform** with CRUD functionality, payment system, backend admin functionalities as the sole developer — all from scratch.
+- 💹 As a side hobby i have built and tested my own **trading bots/strategies** using the Binance API.
 - 📜 Explored DeFi protocols including DEXs, lending/borrowing, staking, and flashloans.
 
 ---
